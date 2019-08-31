@@ -14,7 +14,7 @@ Este repositório contém o material de estudo de desenvolvimento Web dos cursos
 
 ## Authors
 
-* **Leonardo Freitas** - *Initial work* - [LeoPFreitas](https://github.com/LeoPFreitas)
+* **Leonardo Freitas**  - [LeoPFreitas](https://github.com/LeoPFreitas)
 
 ## License
 
